@@ -1,3 +1,5 @@
-This is our first lesson alonf
+First version code to push with abda
 
-Hello Devops (git)
+Hello abda (Gitbit & Github collaboration)
+
+Will continue to update file as project progress
